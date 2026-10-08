@@ -6,7 +6,7 @@ This repository tracks my LeetCode practice using C#.
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 2      |
+| Easy       | 3      |
 | Medium     | 0      |
 | Hard       | 0      |
 
